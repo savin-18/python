@@ -1,0 +1,5 @@
+ch=input("enter char")
+if(ch<=a and ch>=z)
+print(ch,"Alphabet)
+else
+print(ch,"No")
